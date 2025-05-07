@@ -4,7 +4,7 @@
 ![Followers](https://img.shields.io/github/followers/Armiinygh?label=Follow&style=social)
 ![Languages](https://img.shields.io/github/languages/top/Armiinygh/YourRepo)
 
-Hi there! 👋 I'm **[Armin]** (also **[Seyedalireza]**) located in Germany, a passionate **Data Scientist** currently diving deep into real-world data challenges and machine learning solutions.  
+Hi there! 👋 I'm **Armin** ( also called **Seyedalireza** ) located in Germany, a passionate **Data Scientist** currently diving deep into real-world data challenges and machine learning solutions.  
 I'm always excited to collaborate, learn, and build innovative **Data Science** projects that make an impact!
 
 ---
